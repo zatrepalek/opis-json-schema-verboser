@@ -1,0 +1,14 @@
+{
+    "name": "zatrepalek/opis-json-schema-verboser",
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zanne\\JsonSchemaVerboser\\": "src/"
+        }
+    },
+    "require-dev": {
+        "opis/json-schema": "^1.0"
+    }
+}
